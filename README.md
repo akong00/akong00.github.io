@@ -1,4 +1,4 @@
 # Personal Website for Albert Kong
-url: akong00.github.io
+[akong00.github.io](https://akong00.github.io "Albert Kong's Website")
 
-under construction at the moment
+### Currently under construction!
